@@ -1,4 +1,4 @@
-# Drivers App - By Simon Barrett 2023
+# Drivers App - Simon Barrett 2023
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
