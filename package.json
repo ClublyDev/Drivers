@@ -1,5 +1,6 @@
 {
   "name": "drivers-app",
+  "author": "Simon Barett",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
